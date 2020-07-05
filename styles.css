@@ -40,5 +40,6 @@ body {
     #container {
         background: url('http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg');
         background-size: 100% 100%;
+        height: 380px;
     }
 }
