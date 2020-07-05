@@ -38,7 +38,7 @@ body {
         display: none;
     }
     #container {
-        background: url('http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg');
+        background: url('ForBiggerEscapes.jpg');
         background-size: 100% 100%;
     }
 }
